@@ -1,0 +1,29 @@
+{
+  "name": "next-theme-ui",
+  "version": "1.0.0",
+  "description": "Theme UI components for Next.js",
+  "repository": "github:cobraz/next-theme-ui",
+  "license": "Apache-2.0",
+  "author": "Simen A. W. Olsen <so@bjerk.io>",
+  "main": "dist/cjs/index.js",
+  "module": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc && tsc -p tsconfig.cjs.json"
+  },
+  "prettier": "@cobraz/prettier-config",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "next": "^11.1.2",
+    "@theme-ui/components": "^0.11.3"
+  },
+  "devDependencies": {
+    "@bjerk/eslint-config": "^1.0.0",
+    "@cobraz/prettier-config": "^1.0.1",
+    "@theme-ui/components": "^0.11.3",
+    "@tsconfig/next": "^1.0.0",
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "typescript": "^4.4.4"
+  }
+}
