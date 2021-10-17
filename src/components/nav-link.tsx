@@ -22,7 +22,7 @@ export const NavLink = React.forwardRef<HTMLAnchorElement, NavLinkProps>(
       shallow,
       prefetch,
       locale,
-      activeClassName,
+      activeClassName = 'active',
       useCurrentAria = true,
       ...props
     },
