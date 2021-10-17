@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.1](https://www.github.com/cobraz/next-theme-ui/compare/v1.1.0...v1.1.1) (2021-10-17)
+
+
+### Bug Fixes
+
+* use react with jsx ([c809233](https://www.github.com/cobraz/next-theme-ui/commit/c809233cf9520ea3b77943a151ab3e9928643e67))
+
 ## [1.1.0](https://www.github.com/cobraz/next-theme-ui/compare/v1.0.1...v1.1.0) (2021-10-17)
 
 
