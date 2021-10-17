@@ -15,12 +15,21 @@
   "scripts": {
     "build": "tsc && tsc -p tsconfig.cjs.json"
   },
+  "keywords": [
+    "theme-ui",
+    "ui",
+    "next",
+    "next-js",
+    "link",
+    "nav-link"
+  ],
   "prettier": "@cobraz/prettier-config",
   "devDependencies": {
     "@bjerk/eslint-config": "^1.0.0",
     "@cobraz/prettier-config": "^1.0.1",
     "@theme-ui/components": "^0.11.3",
     "@tsconfig/next": "^1.0.0",
+    "@types/react": "^17.0.30",
     "next": "^11.1.2",
     "react": "^17.0.2",
     "typescript": "^4.4.4"
@@ -28,6 +37,6 @@
   "peerDependencies": {
     "@theme-ui/components": "^0.11.3",
     "next": "^11.1.2",
-    "react": "^17.0.2"
+    "react": "^16 || ^17"
   }
 }

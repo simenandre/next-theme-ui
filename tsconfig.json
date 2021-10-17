@@ -1,9 +1,11 @@
 {
-    "extends": "@tsconfig/next/tsconfig.json",
-    "compilerOptions": {
-      "noEmit": false,
-      "outDir": "dist",
-      "declaration": true,
-    },
-    "include": ["src/index.ts"]
+  "extends": "@tsconfig/next/tsconfig.json",
+  "compilerOptions": {
+    "strict": true,
+    "jsx": "react",
+    "noEmit": false,
+    "outDir": "dist",
+    "declaration": true
+  },
+  "include": ["src/index.ts"]
 }
