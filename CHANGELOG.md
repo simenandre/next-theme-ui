@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://www.github.com/cobraz/next-theme-ui/compare/v1.1.1...v1.2.0) (2021-10-17)
+
+
+### Features
+
+* Add activeClassName and aria-current to NavLink ([ae5515e](https://www.github.com/cobraz/next-theme-ui/commit/ae5515ec7d8ff95a98477d671f96fcab542cc8ab))
+* default activeClassName to `active` ([5a8cf01](https://www.github.com/cobraz/next-theme-ui/commit/5a8cf01ee7066c5188ad535a7acb1ef8edc05878))
+
 ### [1.1.1](https://www.github.com/cobraz/next-theme-ui/compare/v1.1.0...v1.1.1) (2021-10-17)
 
 
