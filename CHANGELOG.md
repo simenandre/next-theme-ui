@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://www.github.com/cobraz/next-theme-ui/compare/v1.2.0...v1.3.0) (2022-01-31)
+
+
+### Features
+
+* support Image from next/image ([#7](https://www.github.com/cobraz/next-theme-ui/issues/7)) ([1341b4e](https://www.github.com/cobraz/next-theme-ui/commit/1341b4ef68f0c03b610157a27814cebb05b8f785))
+
 ## [1.2.0](https://www.github.com/cobraz/next-theme-ui/compare/v1.1.1...v1.2.0) (2021-10-17)
 
 
