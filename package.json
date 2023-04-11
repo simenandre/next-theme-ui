@@ -2,7 +2,16 @@
   "name": "next-theme-ui",
   "version": "1.3.0",
   "description": "Theme UI components for Next.js",
-  "repository": "github:cobraz/next-theme-ui",
+  "keywords": [
+    "theme-ui",
+    "ui",
+    "next",
+    "next-js",
+    "nextjs",
+    "link",
+    "nav-link"
+  ],
+  "repository": "github:simenandre/next-theme-ui",
   "license": "Apache-2.0",
   "author": "Simen A. W. Olsen <so@bjerk.io>",
   "main": "./dist/cjs/index.js",
@@ -15,15 +24,6 @@
   "scripts": {
     "build": "tsc && tsc -p tsconfig.cjs.json"
   },
-  "keywords": [
-    "theme-ui",
-    "ui",
-    "next",
-    "next-js",
-    "nextjs",
-    "link",
-    "nav-link"
-  ],
   "prettier": "@cobraz/prettier-config",
   "devDependencies": {
     "@bjerk/eslint-config": "^1.0.0",
