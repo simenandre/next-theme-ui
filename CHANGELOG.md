@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://www.github.com/simenandre/next-theme-ui/compare/v1.3.0...v1.4.0) (2023-05-14)
+
+
+### Features
+
+* **deps:** update dependency next to v12 [security] ([#20](https://www.github.com/simenandre/next-theme-ui/issues/20)) ([b741250](https://www.github.com/simenandre/next-theme-ui/commit/b7412503ed711afc57e6aa41564bffa9245439da))
+
 ## [1.3.0](https://www.github.com/cobraz/next-theme-ui/compare/v1.2.0...v1.3.0) (2022-01-31)
 
 
