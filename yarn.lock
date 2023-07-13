@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@bjerk/eslint-config@^4.0.0":
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/@bjerk/eslint-config/-/eslint-config-4.2.0.tgz#1a30f63a09c5781a1397cf8dbd5585bc8e57589a"
-  integrity sha512-+VmXDjWBxIyt42K44l2ZTE0gbIXsOz/PuU/ITRZpsF7oZByXCQRZfgc0k4gvnXKxu0RqMBBJQx87nyvAwxM1WA==
+"@bjerk/eslint-config@^5.0.0":
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/@bjerk/eslint-config/-/eslint-config-5.0.0.tgz#919788ecb81aa40d99446bcdb41b9702e7fae15b"
+  integrity sha512-RIk8DZGycDfsBIzjFZIxFPO6ESIMPEBZJQ2S3RG1Ij80zMD+PbN4mtOmTYUodzdX8GIkW85WpzPNfDgbr5LxQg==
 
 "@cobraz/prettier-config@^1.0.1":
   version "1.0.1"
