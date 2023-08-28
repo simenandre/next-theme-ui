@@ -214,9 +214,9 @@
   integrity sha512-JCB8C6SnDoQf0cNycqd/35A7MjcnK+ZTqE7judS6o7utxUCg6imJg3QK2qzHKszlTjcj2cn+NwMB2i96ubpj7w==
 
 "@types/react@^18.0.0":
-  version "18.2.20"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.20.tgz#1605557a83df5c8a2cc4eeb743b3dfc0eb6aaeb2"
-  integrity sha512-WKNtmsLWJM/3D5mG4U84cysVY31ivmyw85dE84fOCk5Hx78wezB/XEjVPWl2JTZ5FkEeaTJf+VgUAUn3PE7Isw==
+  version "18.2.21"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.21.tgz#774c37fd01b522d0b91aed04811b58e4e0514ed9"
+  integrity sha512-neFKG/sBAwGxHgXiIxnbm3/AAVQ/cMRS93hvBpg8xYRbeQSPVABp9U2bRnPf0iI4+Ucdv3plSxKK+3CW2ENJxA==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
@@ -228,9 +228,9 @@
   integrity sha512-5cJ8CB4yAx7BH1oMvdU0Jh9lrEXyPkar6F9G/ERswkCuvP4KQZfZkSjcMbAICCpQTN4OuZn8tz0HiKv9TGZgrQ==
 
 "@types/styled-system@^5.1.13":
-  version "5.1.16"
-  resolved "https://registry.yarnpkg.com/@types/styled-system/-/styled-system-5.1.16.tgz#c6fa6f751f051de3c7c5fe1d5dc7562d95a80a9e"
-  integrity sha512-+dyGs2n2o6QStsexh87NeaRmXYnKOnEe7iOEkcYOwKwI5a1gFL0+Mt/hZKi+4KD1qDMkLkGb0lpDrffb/vSkDQ==
+  version "5.1.17"
+  resolved "https://registry.yarnpkg.com/@types/styled-system/-/styled-system-5.1.17.tgz#dbf8bd02461cb929e958a59bd37f9910ce9f95e5"
+  integrity sha512-TTrfh1eKI/m3e8KtVIqINOMeLrjdzLhkMm5BsSHd2GsCYsiS7942Fkel+upqMjw0JlDRNU4q7XWtDud8hcxkQA==
   dependencies:
     csstype "^3.0.2"
 
@@ -242,9 +242,9 @@ busboy@1.6.0:
     streamsearch "^1.1.0"
 
 caniuse-lite@^1.0.30001406:
-  version "1.0.30001522"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001522.tgz#44b87a406c901269adcdb834713e23582dd71856"
-  integrity sha512-TKiyTVZxJGhsTszLuzb+6vUZSjVOAhClszBr2Ta2k9IwtNBT/4dzmL6aywt0HCgEZlmwJzXJd8yNiob6HgwTRg==
+  version "1.0.30001524"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001524.tgz#1e14bce4f43c41a7deaeb5ebfe86664fe8dadb80"
+  integrity sha512-Jj917pJtYg9HSJBF95HVX3Cdr89JUyLT4IZ8SvM5aDRni95swKgYi3TgYLH5hnGfPE/U1dg6IfZ50UsIlLkwSA==
 
 client-only@0.0.1:
   version "0.0.1"
@@ -375,9 +375,9 @@ tslib@^2.4.0:
   integrity sha512-AEYxH93jGFPn/a2iVAwW87VuUIkR1FVUKB77NwMF7nBTDkDrrT/Hpt/IrCJ0QXhW27jTBDcf5ZY7w6RiqTMw2Q==
 
 typescript@^5.0.0:
-  version "5.1.6"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.1.6.tgz#02f8ac202b6dad2c0dd5e0913745b47a37998274"
-  integrity sha512-zaWCozRZ6DLEWAWFrVDz1H6FVXzUSfTy5FUMWsQlU8Ym5JP9eO4xkTIROFCQvhQf61z6O/G6ugw3SgAnvvm+HA==
+  version "5.2.2"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.2.2.tgz#5ebb5e5a5b75f085f22bc3f8460fba308310fa78"
+  integrity sha512-mI4WrpHsbCIcwT9cF4FZvr80QUeKvsUsUvKDoR+X/7XHQH98xYD8YHZg7ANtz2GtZt/CBq2QJ0thkGJMHfqc1w==
 
 watchpack@2.4.0:
   version "2.4.0"
