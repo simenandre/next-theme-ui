@@ -185,21 +185,30 @@
   dependencies:
     tslib "^2.4.0"
 
-"@theme-ui/components@^0.15.0":
-  version "0.15.7"
-  resolved "https://registry.yarnpkg.com/@theme-ui/components/-/components-0.15.7.tgz#d8289abc9d7effec8cc9c6aa51215b7d5b292dd1"
-  integrity sha512-niSZQyFJQ/rojYdUyFl53OJ3J6g3w6GBO76Wc/AHDLJXsXlRvC3+Y3m5AlDlAE0q/v+qfHNhnVo16ufXIxlfwQ==
+"@theme-ui/components@^0.16.0":
+  version "0.16.0"
+  resolved "https://registry.yarnpkg.com/@theme-ui/components/-/components-0.16.0.tgz#2bb29d03907230ea60c111c7a3b6e13b012abc06"
+  integrity sha512-bhg8qh6iCDnBm58OLtqhg6UTyfv2mlbCNFNiqpEJjw7zuRv6T67ndZHHJH6zQXTAuLFLvXe+aLi3si8VF5gmBg==
   dependencies:
     "@styled-system/color" "^5.1.2"
     "@styled-system/should-forward-prop" "^5.1.2"
     "@styled-system/space" "^5.1.2"
-    "@theme-ui/css" "^0.15.7"
+    "@theme-ui/core" "^0.16.0"
+    "@theme-ui/css" "^0.16.0"
     "@types/styled-system" "^5.1.13"
 
-"@theme-ui/css@^0.15.7":
-  version "0.15.7"
-  resolved "https://registry.yarnpkg.com/@theme-ui/css/-/css-0.15.7.tgz#a17110fd3d506329e878172cb05088974c4616e3"
-  integrity sha512-RBCoA3ElO3+DrMPeBKcwbP668Kjj/d5z9SSxJFnfVnawKQfYK0ZNWqMnyV89XO3rZm342rCNG0uVhc19jVQifg==
+"@theme-ui/core@^0.16.0":
+  version "0.16.0"
+  resolved "https://registry.yarnpkg.com/@theme-ui/core/-/core-0.16.0.tgz#184bcf4bf10e40336da52d2b430dc449f3cc4cc4"
+  integrity sha512-M2qkb3LsRXAjILjR4nFr7SpuVTM842WPEPnjTBg59obx5vPDFvormwL0ZaqvPjolu4qsJOjV1P7gMx9KgPE2qw==
+  dependencies:
+    "@theme-ui/css" "^0.16.0"
+    deepmerge "^4.2.2"
+
+"@theme-ui/css@^0.16.0":
+  version "0.16.0"
+  resolved "https://registry.yarnpkg.com/@theme-ui/css/-/css-0.16.0.tgz#3ac13e9cfc5241f8232a4114a336633cf3de04bc"
+  integrity sha512-4kGFw80XTDguziltO8RW7KBhW8ju3aCmbcbLG7ASor2CXmS91jSGr0ILcd973TfJpp/5f8pLfOXxdIiu9PeaVA==
   dependencies:
     csstype "^3.0.10"
 
@@ -255,6 +264,11 @@ csstype@^3.0.10, csstype@^3.0.2:
   version "3.1.3"
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.1.3.tgz#d80ff294d114fb0e6ac500fbf85b60137d7eff81"
   integrity sha512-M1uQkMl8rQK/szD0LNhtqxIPLpimGm8sOBwU7lLnCpSbTyY3yeU1Vc7l4KT5zT4s/yOxHH5O7tIuuLOCnLADRw==
+
+deepmerge@^4.2.2:
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-4.3.1.tgz#44b5f2147cd3b00d4b56137685966f26fd25dd4a"
+  integrity sha512-3sUqbMEc77XqpdNO7FRyRog+eW3ph+GYCbj+rK+uYyRMuwsVy0rMiVtPn+QJlKFvWP/1PYpapqYn0Me2knFn+A==
 
 glob-to-regexp@^0.4.1:
   version "0.4.1"
