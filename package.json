@@ -26,7 +26,7 @@
   },
   "prettier": "@cobraz/prettier-config",
   "devDependencies": {
-    "@bjerk/eslint-config": "^4.0.0",
+    "@bjerk/eslint-config": "^6.0.0",
     "@cobraz/prettier-config": "^1.0.1",
     "@theme-ui/components": "^0.15.0",
     "@tsconfig/next": "^1.0.0",
