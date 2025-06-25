@@ -29,7 +29,7 @@
     "@bjerk/eslint-config": "^4.0.0",
     "@cobraz/prettier-config": "^1.0.1",
     "@theme-ui/components": "^0.15.0",
-    "@tsconfig/next": "^1.0.0",
+    "@tsconfig/next": "^2.0.0",
     "@types/react": "^18.0.0",
     "next": "^13.0.0",
     "react": "^18.0.0",
